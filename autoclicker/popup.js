@@ -26,7 +26,7 @@ document.getElementById('start').addEventListener('click', function() {
         console.log('Dial Next button is active, clicking it...');
         dialNextButton.click();
       }
-    }, 3000);
+    }, 30000);
     console.log('Auto Click started.');
   }
   
